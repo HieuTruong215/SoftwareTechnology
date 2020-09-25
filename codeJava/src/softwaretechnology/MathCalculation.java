@@ -64,7 +64,7 @@ public class MathCalculation extends JFrame {
 		buttonMultiplicEvent();
 		buttonDivideEvent();
 	}
-
+//-----------------------------------------------------------------------------
 	private void buttonPlusEvent() {
 		buttonPlus.addMouseListener(new MouseAdapter() {
 			@Override
